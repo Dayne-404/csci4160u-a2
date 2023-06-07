@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Play
+  - Options
+  - Customization
+  - About
+  - Exit
+  - Back
+  - Accessory
+  - Base
+  - Save
+  - Main
+  - Start
+  - Random
+  - Tutorial
+  - Load
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Checkpoint
+  - Player
+  - Ground
+  - Wall
+  - Accessories
+  - Effects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Speed Lines
+    uniqueID: 16993521
+    locked: 0
